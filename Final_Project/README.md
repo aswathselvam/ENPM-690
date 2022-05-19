@@ -2,7 +2,7 @@
 - Team Members: Aswath Muthuselvam(118286204), Shailesh Pranav Rajendran(118261997)
 - Date: 04/29/2022
 - Course: ENPM690 - Robot Learning
-- The report can be accessed here - [report.pdf](docs/report.pdf)
+- The report can be accessed here - [report.pdf](docs/ENPM690_Report.pdf)
 
 # Setup code
 ## Setup dataset
